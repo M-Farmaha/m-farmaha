@@ -2,9 +2,11 @@
 
 # Hi there. I'm an enthusiastic and detail-oriented Fullstack developer
 
-<img src="./assets/5.gif" width="10%" />
-<img src="./assets/5.gif" width="10%" />
-<img src="./assets/5.gif" width="10%" />
+<div style="display: flex;">
+    <img src="./assets/5.gif" width="10%" />
+    <img src="./assets/5.gif" width="10%" />
+    <img src="./assets/5.gif" width="10%" />
+</div>
 
 ### My stack:
 
@@ -32,9 +34,11 @@
 ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img src="./assets/5.gif" width="10%" />
-<img src="./assets/5.gif" width="10%" />
-<img src="./assets/5.gif" width="10%" />
+<div style="display: flex;">
+    <img src="./assets/5.gif" width="10%" />
+    <img src="./assets/5.gif" width="10%" />
+    <img src="./assets/5.gif" width="10%" />
+</div>
 
 
 ### Contact me:
@@ -43,15 +47,19 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/max_farmaha)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://t.me/max_farmaha)
 
-<img src="./assets/5.gif" width="10%" />
-<img src="./assets/5.gif" width="10%" />
-<img src="./assets/5.gif" width="10%" />
+<div style="display: flex;">
+    <img src="./assets/5.gif" width="10%" />
+    <img src="./assets/5.gif" width="10%" />
+    <img src="./assets/5.gif" width="10%" />
+</div>
 
 
 ### My GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Farmaha&show_icons=true&theme=synthwave)
 
-<img src="./assets/5.gif" width="10%" />
-<img src="./assets/5.gif" width="10%" />
-<img src="./assets/5.gif" width="10%" />
+<div style="display: flex;">
+    <img src="./assets/5.gif" width="10%" />
+    <img src="./assets/5.gif" width="10%" />
+    <img src="./assets/5.gif" width="10%" />
+</div>
