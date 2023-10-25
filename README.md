@@ -1,6 +1,6 @@
-<img src="./assets/1.gif" width="40%" />
+<img src="./assets/bg.jpg"  />
 
-# Hi there. I'm an enthusiastic and detail-oriented Fullstack developer
+## Hi there. I'm an enthusiastic and detail-oriented Fullstack developer
 
 <div style="display: flex;">
     <img src="./assets/5.gif" width="10%" />
