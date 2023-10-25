@@ -1,5 +1,5 @@
 <div style="display: flex;">
-    <img src="https://i.gifer.com/cLV.gif" />
+    <img src="./assets/wings.gif" />
 
 </div>
 
