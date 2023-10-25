@@ -1,4 +1,4 @@
-<img src="./assets/bg.jpg"  />
+<img src="./assets/GITHUB BANNER.png" />
 
 ## Hi there. I'm an enthusiastic and detail-oriented Fullstack developer
 
