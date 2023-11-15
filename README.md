@@ -6,7 +6,7 @@
 ## Hi there. I'm an enthusiastic and detail-oriented Fullstack developer
 
 <div style="display: flex;">
-    <img src="./assets/eyes.gif" width="15%" />
+    <img src="./assets/eyes.gif" width="10%" />
 </div>
 
 ### My stack:
@@ -36,7 +36,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <div style="display: flex;">
-    <img src="./assets/eyes.gif" width="15%" />
+    <img src="./assets/eyes.gif" width="10%" />
 </div>
 
 ### Contact me:
@@ -46,13 +46,15 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://t.me/max_farmaha)
 
 <div style="display: flex;">
-    <img src="./assets/eyes.gif" width="15%" />
+    <img src="./assets/eyes.gif" width="10%" />
 </div>
 
 ### My GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Farmaha&show_icons=true&theme=synthwave)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Farmaha&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: flex;">
-    <img src="./assets/eyes.gif" width="15%" />
+    <img src="./assets/eyes.gif" width="10%" />
 </div>
