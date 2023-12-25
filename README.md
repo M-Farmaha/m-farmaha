@@ -1,5 +1,5 @@
 <div style="display: flex;">
-    <img src="./assets/wings.gif" />
+    <img src="./assets/2024.gif" />
 
 </div>
 
